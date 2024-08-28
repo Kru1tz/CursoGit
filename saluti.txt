@@ -1,4 +1,5 @@
 buongiorno
 buenos dias
-bon jour
+bonjour
 good morning
+Guten Morgen
